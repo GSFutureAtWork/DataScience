@@ -14,7 +14,7 @@ COLUNAS_ORDENADAS = [
     "remote_ratio",
     "work_year",
     # Variável Alvo (Target)
-    "salary_in_usd",
+    "salary",
 ]
 
 
